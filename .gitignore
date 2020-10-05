@@ -1,4 +1,10 @@
+# Images
 *.iso
 *.gcm
+
+# Build artifacts
 *.dol
 *.exe
+
+# IDE
+.vscode/
