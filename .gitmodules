@@ -1,0 +1,3 @@
+[submodule "dol-header-parser"]
+	path = external/dol-header-parser
+	url = https://github.com/Pheenoh/dol-header-parser
